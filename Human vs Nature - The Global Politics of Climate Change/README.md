@@ -27,6 +27,8 @@ To arrive at this goal, politics is at play. Who should be responsible? Who need
   - [How climate change is making record-breaking floods the new normal](https://www.unep.org/news-and-stories/story/how-climate-change-making-record-breaking-floods-new-normal)
   - [Hurricanes and Climate Change (Center for Climate and Energy Solutions)](https://www.c2es.org/content/hurricanes-and-climate-change/)
   - [The Climate Change Link To More And Bigger Wildfires](https://www.npr.org/2021/07/27/1019898087/climate-change-wildfires)
+  - [Water crisis and drought threaten more than 12 million in Syria and Iraq](https://reliefweb.int/report/syrian-arab-republic/water-crisis-and-drought-threaten-more-12-million-syria-and-iraq)
+  - [Global Water Wars (National Geographic)](https://www.youtube.com/watch?v=A0yu7nP50rM)
 - The overwhelming assumption of deterring climate change is that human beings should continue our way of life: electricity, globally linked production and consumption, travel. In order to maintain our lifestyle, which is very energy intensive, we need to reduce climate volatility. And to do this, we need to first reduce carbon dioxide emissions, and then *hopefully* capture more carbon dioxide to bring down carbon concentration in our atmosphere.
 
 **Why is carbon dioxide so important?**
@@ -35,9 +37,9 @@ To arrive at this goal, politics is at play. Who should be responsible? Who need
 
 **Then, what do we do about carbon dioxide?**
 
-- The overall consensus in the global community is to achieve "carbon neutrality," which means to release as much as carbon dioxide as we absorb it. The aim of carbon neutrality is to "peak" carbon emissions, so that we do not *worsen* the effects of climate change. This also means, some of the extreme weather conditions that have newly manifested in recent years are probably here to stay. After we achieve carbon neutrality, we will find ways to bring down carbon concentration in the atmosphere through carbon capture, either naturally or technologically.
+- The overall consensus in the global community is to achieve "carbon neutrality," which means to release as much as carbon dioxide as we absorb it. The aim of carbon neutrality is to make sure carbon concentration does not go up, so that we do not *worsen* the effects of climate change. This also means, some of the extreme weather conditions, like drought and flooding, that have newly manifested in recent years are probably here to stay. After we achieve carbon neutrality, we will find ways to bring down carbon concentration in the atmosphere through carbon capture, either naturally or technologically, in hopes of bringing global temperatures down to a more habitable level.
 - Now, how do we achieve carbon neutrality as a globe? Here is where the politics come in.
-  - Which countries are responsible for the high carbon concentration in the atmosphere?
+  - Which countries are responsible for the high carbon concentration in the atmosphere? Are countries who historically released carbon dioxide also responsible? How do we calculate carbon responsibility? Who is to calculate?
   - What energy sources are preferred? Most of our energy sources come from fossil fuels currently, therefore we need to have a drastic transformation of how we use energy. What energy? How do we justify which energy is better? Biofuel? Wind, solar, and hydro can be very volatile, which means unreliable electricity generation.
   - What about economic development? Can there be economic growth with net-zero emissions? Some developed country has demonstrated that it's possible, but is it so for developing countries?
   - The effects of climate change means migration. How will a planet divided into nations handle climate refugees?
@@ -273,6 +275,10 @@ To arrive at this goal, politics is at play. Who should be responsible? Who need
 [Where are we with the safer nuclear option known as nuclear fusion?](https://www.renewableenergyworld.com/blog/where-are-we-with-the-safer-nuclear-option-known-as-nuclear-fusion)
 
 [The Climate Change Link To More And Bigger Wildfires](https://www.npr.org/2021/07/27/1019898087/climate-change-wildfires)
+
+[Water crisis and drought threaten more than 12 million in Syria and Iraq](https://reliefweb.int/report/syrian-arab-republic/water-crisis-and-drought-threaten-more-12-million-syria-and-iraq)
+
+[How Could A Drought Spark A Civil War?](https://www.npr.org/2013/09/08/220438728/how-could-a-drought-spark-a-civil-war)
 
 ### Research
 
