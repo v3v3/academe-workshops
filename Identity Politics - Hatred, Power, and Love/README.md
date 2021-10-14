@@ -1,8 +1,10 @@
 # Identity Politics: Hatred, Power, and Love
 
-In Toni Morrison's "Stranger", she recounts an encounter with a stranger:
+In Toni Morrison's "Strangers", she recounts an encounter with a stranger:
 
 > I am in this river place - newly mine - walking in the yard when I see a woman sitting on the seawall at the edge of a neighbor's garden. A homemade fishing pole arcs into the water some twenty feet from her hand. A feeling of welcome washes over me. I walk toward her, right up to the fence that separates my place from the neighbor's, and notice with pleasure the clothes she wears: men's shoes, a man's hat, a well-worn colorless sweater over a long black dress.
+
+Immediately, an identity assumed in place of the stranger, through her appearance, attire, and action. An toward this identity, Morrison's emotion, which is the very essence of our human connection, is evoked.
 
 In our everyday life, we encounter the other, the friend, the outsider, the relative, the foreigner, and the native. In all this relationship, identity is there. The beginning sentence in this paragraph is, in fact, a list of identities. In our world, identity has become political. It is inside the field of power. Identity is understood with privilege, prestige, wealth, prejudice. Identity is the way we understand each other. Therefore, identity is the screen between us. Identity is the reason for love, and the cause of hatred. It is the measure of privilege, the origin of prejudice.
 

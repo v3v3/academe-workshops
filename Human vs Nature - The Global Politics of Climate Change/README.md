@@ -72,7 +72,7 @@ To arrive at this goal, politics is at play. Who should be responsible? Who need
 
 **Borrowed time**
 
-> Pledges. Credits. The process of nature's adjustment takes time.
+> Pledges. Credits. The process of nature's adjustment takes time. We have used time (the formation of fossil fuels) for technological progress. Is there temporal debt?
 
 
 
