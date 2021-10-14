@@ -1,0 +1,1 @@
+**This is a series of discussions/workshops which face the contemporary crises and issues. Topics include climate change, identity politics, oppression, depression, and so on.**
